@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: MLALGO
+Version: 0.1.0
+Summary: A simple ML Algorithms library
+Home-page: https://github.com/gangradeamitesh/MLALGO
+Author: Amitesh Gangrade
+Author-email: gangradeamitesh@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6

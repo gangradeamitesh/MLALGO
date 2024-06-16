@@ -1,0 +1,7 @@
+setup.py
+MLALGO.egg-info/PKG-INFO
+MLALGO.egg-info/SOURCES.txt
+MLALGO.egg-info/dependency_links.txt
+MLALGO.egg-info/top_level.txt
+linear_regression/__init__.py
+linear_regression/regression.py
